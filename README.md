@@ -1,0 +1,2 @@
+# block_autoInstanceObject
+block本质探寻五之atuto类型局部实例对象
